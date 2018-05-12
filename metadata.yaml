@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37224'
     url: http://www.gutenberg.org/2009/agents/37224
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37033#-ber-die-Sch-nheit-h--licher-BilderEin-Vademecum-f-r-Romantiker-unserer-Zeit
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-08-11'
 gutenberg_type: Text
